@@ -1,0 +1,1 @@
+//Example of how to write react native code
